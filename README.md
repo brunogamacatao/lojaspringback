@@ -15,5 +15,5 @@ Na pasta docker já tem um Dockerfile e um arquivo compilado da aplicação
 Na pasta docker faça:
 
 ```
-docker build . -name lojaspringback
+docker build . -t lojaspringback
 ```
